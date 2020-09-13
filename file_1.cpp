@@ -1,8 +1,5 @@
-
-Test 1
-Test 2
-Test 3
-Test 4
-Test 5
-Test 6
-8
+#include <iostream>
+using namespace std;
+int main() {
+  cout<<"file_1(5)"<<endl;
+}
